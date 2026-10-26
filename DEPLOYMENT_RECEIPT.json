@@ -1,0 +1,14 @@
+{
+  "project": "william-thomson-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "9B3bjUV2qGG8tMVr4h43XYqNhJ2qaLJje8xLLw8jimwH",
+  "vault_account": "97UzHUjwoGsFBpgfr1jZyFAfvXEmqQXAs9F4sNvGaw3E",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5Yu1mnJgmua4b4yP8C3wMiodqmYM3gduiUvs8nEqwPwihZekuCS2Htvv1AcjDi1M1dNJr7fMXwUfz6K8wGNYPfsM",
+  "account_tx": "2JwWUjyPwBe5MRJUJFiMe36VW6D6XT2VHWwQkXL2JHUW7ZHyCvPW1Azkdg91GyuTov8pcBRyvCpiLEpDzhW5GcXP",
+  "mint_tx": "5mJH8UPxMAvnnr1hEP3xwiHNof58x6aA6DDcJ47haoqdZLErz2pRSSWXhTrmj1M8sbY3KiZPVYiQjuAcTMrwQdLG",
+  "solana_explorer_mint": "https://explorer.solana.com/address/9B3bjUV2qGG8tMVr4h43XYqNhJ2qaLJje8xLLw8jimwH?cluster=devnet",
+  "timestamp": "2026-10-26 17:04:10 UTC"
+}
